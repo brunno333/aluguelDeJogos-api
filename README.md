@@ -2,6 +2,8 @@
 
 Este é o repositório da **API (Backend)** para o sistema de gerenciamento e aluguel de **boardgames**. A aplicação foi construída em **Node.js** utilizando o framework **Express** e o banco de dados **MySQL**.
 
+> **📚 Observação:** Este projeto foi desenvolvido com finalidade **didática**, como parte dos meus estudos e prática de desenvolvimento de software. Seu principal objetivo é aplicar conceitos, boas práticas, padrões de projeto e tecnologias utilizadas no desenvolvimento de aplicações reais.
+
 ---
 
 ## 📂 Estrutura do Projeto
